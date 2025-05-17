@@ -81,6 +81,6 @@
 
   <img src="https://streak-stats.demolab.com?user=arzummammadova&theme=dracula&hide_border=false" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzummammadova&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
+  <img style="margin-top:20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzummammadova&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
 </p>
 <p align="center">✨ Thank you for visiting my profile! ✨</p>
