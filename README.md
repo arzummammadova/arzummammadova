@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Arzu</h1>
+<h1 align="center">Arzu Mammadova</h1>
 <h3 align="center">Front-End Developer</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/29/2d/7d/292d7d1db2f2e1182ff8e74ed1894d8f.gif" alt="coding gif" width="400"/>
+  <img src="https://i.pinimg.com/originals/16/3a/45/163a45c71818f3b1df89788842a9e38a.gif" width="400" alt="developer gif"/>
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ### 👩‍💻 About Me:
 - 🌱 I’m currently improving my skills in **React**, **Redux**, and **Node.js**
 - 💬 Ask me about **JavaScript**, **SCSS**, **MongoDB**, and **Frontend Development**
-- 📫 How to reach me: **arzumammadova@gmail.com**
+- 📫 How to reach me: **arzuuimammadova@gmail.com**
 
 ---
 
