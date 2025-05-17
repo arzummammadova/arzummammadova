@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Developer</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/16/3a/45/163a45c71818f3b1df89788842a9e38a.gif" width="300" alt="developer gif"/>
+  <img src="https://i.pinimg.com/originals/41/5d/4c/415d4c7290df94be36e1a2df14aacef4.gif" width="300" alt="developer gif"/>
 </p>
 
 ---
