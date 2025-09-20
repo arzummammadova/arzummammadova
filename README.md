@@ -129,5 +129,11 @@
   <img style="margin-top:20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzummammadova&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arzummammadova/arzummammadova/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arzummammadova/arzummammadova/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arzummammadova/arzummammadova/output/pacman-contribution-graph.svg">
+</picture>
+
 
 <p align="center">✨ Thank you for visiting my profile! ✨</p>
