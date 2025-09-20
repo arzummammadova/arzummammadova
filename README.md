@@ -121,13 +121,13 @@
 
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arzummammadova&theme=pacman&hide_border=true" alt="GitHub Activity Graph" />
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arzummammadova&theme=pacman&hide_border=true" alt="GitHub Activity Graph" />
   <br /><br />
-  <img src="https://streak-stats.demolab.com?user=arzummammadova&theme=dracula&hide_border=false" alt="GitHub Streak" />
-  <br />
-  <img style="margin-top:20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzummammadova&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=arzummammadova&theme=dracula&hide_border=false" alt="GitHub Streak" />
+  <br />
+  <img style="margin-top:20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzummammadova&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
 </p>
+
 
 <p align="center">✨ Thank you for visiting my profile! ✨</p>
