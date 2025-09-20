@@ -6,8 +6,8 @@
 </p>
 
 ---
-### 💡 Quote
-![Typing Quote](https://readme-typing-svg.demolab.com?font=Rubik&size=24&pause=1000&color=F7DF1E&width=500&lines=Keep+it+simple,+stupid.)
+### 💡 
+![Typing Quote](https://readme-typing-svg.demolab.com?font=Rubik&size=24&pause=1000&color=#ee81f0&width=700&lines=Keep+it+simple,+stupid.)
 
 
 
@@ -20,7 +20,7 @@
 
 **Portfolio Website**  
 ⚡ React | Next.js | TailwindCSS  
-[Live Demo](https://arzumammadova.vercel.app) | [Source Code](https://github.com/arzummammadova/portfolio)
+[Live Demo](https://arzumammadova.vercel.app) | [Source Code]([https://github.com/arzummammadova/portfolio](https://github.com/arzummammadova/Portfolio-Arzu))
 
 
 ### 🌐 Connect with me:
