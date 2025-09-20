@@ -6,7 +6,7 @@
 </p>
 
 ---
-![Clock](https://time.is/widget.js)
+
 
 
 ### 👩‍💻 About Me:
@@ -116,7 +116,7 @@
 
 </p>
 <p float="left">
-  <a href="[https://github.com/arzummammadova/Readly](https://arzumammadova.vercel.app/)">
+  <a href="https://arzumammadova.vercel.app">
   Portfolio
 
 </p>
