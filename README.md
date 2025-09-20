@@ -7,7 +7,7 @@
 
 ---
 ### 💡 
-![Typing Quote](https://readme-typing-svg.demolab.com?font=Rubik&size=24&pause=1000&color=#ee81f0&width=700&lines=Keep+it+simple,+stupid.)
+![Typing Quote](https://readme-typing-svg.demolab.com?font=Rubik&size=24&pause=1000&color=ee81f0&width=500&lines=Keep+it+simple,+stupid.)
 
 
 
