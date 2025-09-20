@@ -6,6 +6,8 @@
 </p>
 
 ---
+![Clock](https://time.is/widget.js)
+
 
 ### 👩‍💻 About Me:
 - 🌱 I’m currently improving my skills in **React**, **Redux**, and **Node.js**
@@ -113,9 +115,12 @@
   <img style="margin-top:20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzummammadova&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
 
 </p>
+<p float="left">
+  <a href="[https://github.com/arzummammadova/Readly](https://arzumammadova.vercel.app/)">
+  Portfolio
 
-![Visitor Count](https://profile-counter.glitch.me/arzummammadova/count.svg)
-![Quote](https://quotes-github-readme.vercel.app/api?type=dev)
-![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=black)
+</p>
+
+
 
 <p align="center">✨ Thank you for visiting my profile! ✨</p>
