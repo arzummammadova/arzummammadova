@@ -6,6 +6,8 @@
 </p>
 
 ---
+### 💡 Quote
+![Typing Quote](https://readme-typing-svg.demolab.com?font=Rubik&size=24&pause=1000&color=F7DF1E&width=500&lines=Keep+it+simple,+stupid.)
 
 
 
@@ -15,6 +17,11 @@
 - 📫 How to reach me: **arzuuimammadova@gmail.com**
 
 ---
+
+**Portfolio Website**  
+⚡ React | Next.js | TailwindCSS  
+[Live Demo](https://arzumammadova.vercel.app) | [Source Code](https://github.com/arzummammadova/portfolio)
+
 
 ### 🌐 Connect with me:
 <p align="left">
@@ -109,11 +116,7 @@
 
 
 
-<p float="left">
-  <a href="https://arzumammadova.vercel.app">
-  Portfolio
 
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arzummammadova/arzummammadova/output/pacman-contribution-graph-dark.svg">
