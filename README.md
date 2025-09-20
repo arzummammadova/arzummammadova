@@ -25,6 +25,17 @@
  
 </p>
 
+---
+
+### 📝 Blog Posts:
+<p align="left">
+  <a href="https://medium.com/@arzuuimammadova" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+</p>
+
+- [React Query istifadəsi](https://medium.com/@arzuuimammadova/react-query-4758c0760cb3)  
+- [Node.js-də Swagger UI istifadəsi](https://medium.com/@arzuuimammadova/node-js-də-swagger-ui-istifadəsi-88c3a9113ee8)  
 
 ---
 
