@@ -1,22 +1,31 @@
  <h1 align="center">Arzu Mammadova</h1>
 <h3 align="center">Front-End Developer</h3>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/41/5d/4c/415d4c7290df94be36e1a2df14aacef4.gif" width="300" alt="developer gif"/>
-</p>
+
 
 ---
 ### 💡 
 ![Typing Quote](https://readme-typing-svg.demolab.com?font=Rubik&size=24&pause=1000&color=ee81f0&width=500&lines=Keep+it+simple,+stupid.)
 
 
+<table>
+<tr>
+<td width="50%">
 
 ### 👩‍💻 About Me:
 - 🌱 I’m currently improving my skills in **React**, **Redux**, and **Node.js**
 - 💬 Ask me about **JavaScript**, **SCSS**, **MongoDB**, and **Frontend Development**
 - 📫 How to reach me: **arzuuimammadova@gmail.com**
 
----
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://i.pinimg.com/originals/41/5d/4c/415d4c7290df94be36e1a2df14aacef4.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 **Portfolio Website**  
 ⚡ React | Next.js | TailwindCSS  
