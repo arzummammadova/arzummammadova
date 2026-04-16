@@ -32,16 +32,18 @@
 [Live Demo](https://arzumammadova.vercel.app) | [Source Code]([https://github.com/arzummammadova/portfolio](https://github.com/arzummammadova/Portfolio-Arzu))
 
 
-### 🌐 Connect with me:
-<p align="left">
+###  Connect with me:
+
+<p align="center">
   <a href="https://www.linkedin.com/in/arzu-mammadova-892b25269" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/justarzuui" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" />
   </a>
- 
 </p>
+
 
 ---
 
