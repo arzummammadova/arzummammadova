@@ -61,9 +61,9 @@
 
 
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,sass,materialui,redux,nodejs,express,mongodb,oracle,git,github,gitlab,postman,figma,discord,gmail,htmx,md,npm,notion,py,stackoverflow,vscode,vercel&perline=11" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,sass,materialui,redux,nodejs,express,mongodb,oracle,git,github,gitlab,postman,figma,discord,gmail,htmx,md,npm,notion,py,stackoverflow,vscode,vite,vercel&perline=11" />
   </a>
 </p>
 
