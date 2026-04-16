@@ -55,29 +55,6 @@
 - [React Query istifadəsi](https://medium.com/@arzuuimammadova/react-query-4758c0760cb3)  
 - [Node.js-də Swagger UI istifadəsi](https://medium.com/@arzuuimammadova/node-js-də-swagger-ui-istifadəsi-88c3a9113ee8)  
 
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,mongodb,sass,tailwind,figma,git,express,nextjs,threejs,materialui,postman,vscode,github,npm&theme=dark" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://www.chartjs.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/line-chart.png" alt="Chart.js" width="45" height="45"/>
-  </a>
-  <a href="https://tanstack.com/query/latest" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/database.png" alt="React Query" width="45" height="45"/>
-  </a>
-  <a href="https://trello.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello" width="45" height="45"/>
-  </a>
-  <a href="https://slack.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/slack-new.png" alt="Slack" width="45" height="45"/>
-  </a>
-</p>
----
 
 # 💻 Tech Stack:
 
