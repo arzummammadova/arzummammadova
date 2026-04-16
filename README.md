@@ -61,12 +61,12 @@
 
 ### 🛠️ Languages and Tools
 
+### 🛠️ Technical Skills
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,mongodb,sass,tailwind,figma,git,express,nextjs,threejs,materialui,postman,trello,slack&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,sass,materialui,redux,nodejs,express,mongodb,oracle,git,github,gitlab,postman,figma,vscode,vercel&perline=11" />
   </a>
-  <img src="https://img.icons8.com/color/48/000000/line-chart.png" width="48" height="48" style="vertical-align: top; margin-left: 4px;" />
-  <img src="https://raw.githubusercontent.com/tanstack/query/main/media/logo/color.svg" width="44" height="44" style="vertical-align: top; margin-left: 8px;" />
 </p>
 
 
