@@ -15,7 +15,7 @@
 [Live Demo](https://arzumammadova.vercel.app) 
 
 
-###  Connect with me:
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arzu-mammadova-892b25269" target="_blank">
@@ -30,7 +30,7 @@
 
 ---
 
-### 📝 Blog Posts:
+###  Blog Posts:
 <p align="left">
   <a href="https://medium.com/@arzuuimammadova" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
