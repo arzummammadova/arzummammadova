@@ -12,23 +12,6 @@
 <tr>
 <td width="50%">
 
-### 👩‍💻 About Me:
-- 🌱 I’m currently improving my skills in **React**, **Redux**, and **Node.js**
-- 💬 Ask me about **JavaScript**, **SCSS**, **MongoDB**, and **Frontend Development**
-- 📫 How to reach me: **arzuuimammadova@gmail.com**
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://i.pinimg.com/originals/41/5d/4c/415d4c7290df94be36e1a2df14aacef4.gif" width="300"/>
-
-</td>
-</tr>
-</table>
-
-**Portfolio Website**  
-⚡ React | Next.js | TailwindCSS  
 [Live Demo](https://arzumammadova.vercel.app) | [Source Code]([https://github.com/arzummammadova/portfolio](https://github.com/arzummammadova/Portfolio-Arzu))
 
 
