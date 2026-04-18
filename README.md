@@ -12,7 +12,7 @@
 <tr>
 <td width="50%">
 
-[Live Demo](https://arzumammadova.vercel.app) | [Source Code]([https://github.com/arzummammadova/portfolio](https://github.com/arzummammadova/Portfolio-Arzu))
+[Live Demo](https://arzumammadova.vercel.app) 
 
 
 ###  Connect with me:
@@ -36,9 +36,6 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </p>
-
-- [React Query istifadəsi](https://medium.com/@arzuuimammadova/react-query-4758c0760cb3)  
-- [Node.js-də Swagger UI istifadəsi](https://medium.com/@arzuuimammadova/node-js-də-swagger-ui-istifadəsi-88c3a9113ee8)  
 
 
 # 💻 Tech Stack:
